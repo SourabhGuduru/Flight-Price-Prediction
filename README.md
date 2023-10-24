@@ -19,3 +19,5 @@ Before constructing our predictive model, it's vital to prepare and refine the d
 5. **Encoding Categorical Variables:** To make the data compatible with the model, we encode categorical variables into numerical representations. This step is essential because many machine learning algorithms require numeric input data.
 
 These preprocessing steps are vital in preparing the dataset for building an accurate flight price prediction model. They help ensure that the data is in the right format and ready for analysis and modeling.
+## Project Outcomes
+This project has effectively developed an advanced flight price prediction model, offering a valuable tool for both passengers and airlines. Passengers can now make informed decisions about the best times to book their flights, while airlines can use the model to enhance their pricing strategies. The entire codebase of this project is open-source, enabling users to utilize and customize it to meet their specific requirements.
